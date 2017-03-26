@@ -1,12 +1,30 @@
-# vue.js<br>
-vue.2 + webpack<br>
-this demo is just a start......
-<br>
-仅仅是个开始，后续功能还在添加，不足之处希望指点
-<br>
-1.how to start the demo<br>
-  如何启动<br>
-  下载到本地<br>
-  git clone<br>
-  npm install<br>
-2 执行 node build/dev-server.js<br>
+# photopage
+
+> A Vue.js project
+
+## Build Setup
+
+``` bash
+# install dependencies
+npm install
+
+# serve with hot reload at localhost:8080
+npm run dev
+
+# build for production with minification
+npm run build
+
+# build for production and view the bundle analyzer report
+npm run build --report
+
+# run unit tests
+npm run unit
+
+# run e2e tests
+npm run e2e
+
+# run all tests
+npm test
+```
+
+For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
